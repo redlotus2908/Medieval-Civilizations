@@ -148,12 +148,12 @@
 		"replaces": "Opera House",
 		"uniqueTo": "Vietnam", 
 		"culture": 3,
-		"happiness": 1,
+		"happiness": 2,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Temple",
 		"maintenance": 2,
-		"uniques": ["[+2 Culture] from [Lakes] tiles in this city"]
+		"uniques": ["[+4 Culture] from [Lakes] tiles in this city"]
 		"requiredTech": "Acoustics"
 	},
 
